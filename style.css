@@ -40,12 +40,13 @@ p {
 }
 
 
+
 .centro {
     text-align: center;
     margin-top: 20px;
 }
 
-btton {
+#btnJogos {
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
