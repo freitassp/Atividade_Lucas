@@ -9,7 +9,7 @@ function mostrarTabela() {
         const img = document.createElement('img');
         
         // Define o caminho (ajuste conforme a pasta 'Prova' mencionada)
-        img.src = 'Prova/tabela_jogos.png'; 
+        img.src = 'Prova/tabela_jogos.jpg'; 
         img.alt = 'Tabela de Jogos Copa 2026';
         img.id = 'tabelaJogos';
         img.style.maxWidth = '100%';
